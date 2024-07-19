@@ -2,8 +2,7 @@
 ### Programador en Web, Ios & Android
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6SNfTP5G2YhKA3Wb6ScC-g?style=social)](https://youtube.com/barmadmim?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/barmadmim?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://barmadmim.com/discord)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/barmadmim?style=social)](https://twitter.com/barmadmim)
 ![GitHub Followers](https://img.shields.io/github/followers/barmadmim?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/barmadmim?style=social)
